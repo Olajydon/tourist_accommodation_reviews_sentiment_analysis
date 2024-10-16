@@ -1,5 +1,5 @@
 # Sentiment Analysis for Holiday Homes Reviews
-# Aim
+# Aim m
 The aim of this work is to use text mining and sentiment analysis to understand the feelings contained in the reviews of the tourist accommodation customers.
 # Overview
 This work uses the tourist accommodation review data [tourist_accommodation_reviews.csv](https://github.com/Olajydon/tourist_accommodation_reviews_sentiment_analysis/files/10895298/tourist_accommodation_reviews.csv)
